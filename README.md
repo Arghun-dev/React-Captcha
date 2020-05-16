@@ -1,7 +1,7 @@
 # React-Captcha
 
 
-### React-Captcha Generator
+## React-Captcha Generator
 
 ```
 $. npm i react-captcha-generator
